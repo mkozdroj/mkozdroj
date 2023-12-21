@@ -1,6 +1,12 @@
 ### Hi there 👋
+I'm Marta, aspiring to become a Junior Java Developer :computer: 
+I have a passion for problem-solving :white_check_mark: 
+and my analytical mindset often helps me find solutions quite swiftly.
 
-<!--
+Apart from programming, I spend my time playing tennis :tennis: enjoying the company of my dogs:dog2: and cherishing moments with my family :family_man_woman_girl_boy:
+
+You can reach out to me at [Linkedin]([actual URL to navigate](https://www.linkedin.com/in/marta-kozdroj/))
+
 **mkozdroj/mkozdroj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +19,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
