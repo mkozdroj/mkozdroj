@@ -5,5 +5,5 @@ and my analytical mindset often helps me find solutions quite swiftly.
 
 Apart from programming, I spend my time playing tennis :tennis: enjoying the company of my dogs:dog2: and cherishing moments with my family :family_man_woman_girl_boy:
 
-You can reach out to me at [Linkedin](www.linkedin.com/in/marta-kozdroj)
+You can reach out to me at [Linkedin](www.linkedin.com/in/marta-kozdroj](https://www.linkedin.com/in/marta-kozdroj/)https://www.linkedin.com/in/marta-kozdroj/)
 
